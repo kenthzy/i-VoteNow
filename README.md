@@ -51,7 +51,7 @@ We welcome contributions! If you’d like to improve I-VoteNow, feel free to for
 ## 📧 Contact & Support
 
 Have questions or suggestions? Reach out!
-✉️ Email: [your-email@example.com](mailto:kenthgnzls@gmail.com)  
+✉️ Email: [kenthgnzls](mailto:kenthgnzls@gmail.com)  
 🐙 GitHub: [kenthzy](https://github.com/kenthzy)
 
 🔹 *I-VoteNow – Making every vote count!* 🗳️
